@@ -1,0 +1,540 @@
+# Copyright (C) 2024 Hulk Plugins
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Smooth Scroll To Top Button 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/smooth-scroll-to-top-button\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-27T13:49:57+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: smooth-scroll-to-top-button\n"
+
+#. Plugin Name of the plugin
+#: C:\laragon\www\wordpress\wp-content\plugins\smooth-scroll-to-top-button\smooth-scroll-to-top-button.php
+msgid "Smooth Scroll To Top Button"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: C:\laragon\www\wordpress\wp-content\plugins\smooth-scroll-to-top-button\smooth-scroll-to-top-button.php
+msgid "https://wordpress.org/plugins/smooth-scroll-to-top-button"
+msgstr ""
+
+#. Description of the plugin
+#: C:\laragon\www\wordpress\wp-content\plugins\smooth-scroll-to-top-button\smooth-scroll-to-top-button.php
+msgid "Allow visitors to scroll to the top of the page with one click."
+msgstr ""
+
+#. Author of the plugin
+#: C:\laragon\www\wordpress\wp-content\plugins\smooth-scroll-to-top-button\smooth-scroll-to-top-button.php
+msgid "Hulk Plugins"
+msgstr ""
+
+#. Author URI of the plugin
+#: C:\laragon\www\wordpress\wp-content\plugins\smooth-scroll-to-top-button\smooth-scroll-to-top-button.php
+msgid "https://hulkplugins.com"
+msgstr ""
+
+#: includes/Base.php:27
+msgid "Docs"
+msgstr ""
+
+#: includes/Base.php:33
+msgid "Help &amp; Support"
+msgstr ""
+
+#: includes/Settings.php:27
+#: includes/Settings.php:28
+msgid "Scroll To Top"
+msgstr ""
+
+#: includes/Settings.php:121
+#: includes/Settings.php:146
+msgid "No data received"
+msgstr ""
+
+#: includes/Settings.php:130
+msgid "Settings saved."
+msgstr ""
+
+#: includes/Settings.php:154
+msgid "Template name is required"
+msgstr ""
+
+#: includes/Settings.php:162
+msgid "Settings is required"
+msgstr ""
+
+#: includes/Settings.php:174
+msgid "Template saved."
+msgstr ""
+
+#: includes/utils/Helper.php:20
+#: build/admin/settings/index.js:1
+msgid "Home"
+msgstr ""
+
+#: includes/utils/Helper.php:161
+msgid "Failed to write the JSON file"
+msgstr ""
+
+#: includes/utils/Helper.php:200
+msgid "Assets directory does not exist"
+msgstr ""
+
+#: includes/utils/Helper.php:210
+msgid "No JSON files found in the assets directory"
+msgstr ""
+
+#: includes/utils/Helper.php:224
+msgid "Failed to read the JSON file"
+msgstr ""
+
+#: includes/utils/Helper.php:253
+msgid "Icons directory does not exist"
+msgstr ""
+
+#: includes/utils/Helper.php:263
+msgid "No SVG files found in the assets directory"
+msgstr ""
+
+#: includes/utils/Helper.php:277
+msgid "Failed to read the SVG file"
+msgstr ""
+
+#: includes/utils/Helper.php:313
+msgid "File does not exist or is not readable."
+msgstr ""
+
+#: includes/utils/Helper.php:316
+msgid "Stylesheet handle not found."
+msgstr ""
+
+#: build/admin/settings/341.f9d47f3b861d41ddc158.js:1
+#: build/admin/settings/index.js:1
+msgid "Network response was not ok"
+msgstr ""
+
+#: build/admin/settings/341.f9d47f3b861d41ddc158.js:1
+msgid "Template Name"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Save Changes"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Button Preview"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Template"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Button"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Position"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Settings"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Help"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "FAQ"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Preview"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Back"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Not Found"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Page not Found"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "404"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Select a template to start with"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "This will overwrite the existing settings."
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Cancel"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "OK"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Text (Optional)"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "To Top"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Normal"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Hover"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Solid"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Gradient"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Button Color"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Icon"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Icon & Text"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Icon Color"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Icon & Text Color"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Enable Button Border"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Border Width"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Color"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Border"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Border Color"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Style"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Dashed"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Dotted"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Button Size"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Small"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "S"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Medium"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "M"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Large"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "L"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Extra Large"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "XL"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "More"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Button Width"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Button Height"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Icon Size"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Square Corners"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Rounded Corners"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Circular Corners"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Radius"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Text Font Weight"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Bold"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Change"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Remove"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Select Icon"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Text Direction"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Right"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Bottom"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Left"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Top"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Text Orientation"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Horizontal"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Vertical"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Reverse"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Tiny"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Big"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Gap Between Icon and Text"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Shape"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Distance from the Top"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Distance from the Left"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Distance from the Right"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Distance from the Bottom"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Scroll Position to Display"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "In percentage"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Scrolling Speed"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "In seconds"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Pages"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Select Pages to Display"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Excluded Pages"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Don't display button on these pages"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Specific Pages"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Display button only on these pages"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Desktop"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Tablet"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Mobile"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Show on Devices"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Above setting will only take effect once you are on the live page, and not while you're editing"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Animation"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Enable Scroll To Top"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "DISPLAY SETTINGS"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Devices"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Custom CSS"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Faq"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Something went wrong"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Loading…"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Icons"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Scroll To Top is disabled."
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Enable"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Smooth Scroll To Top Button by"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Documentation"
+msgstr ""
+
+#: build/admin/settings/index.js:1
+msgid "Support"
+msgstr ""

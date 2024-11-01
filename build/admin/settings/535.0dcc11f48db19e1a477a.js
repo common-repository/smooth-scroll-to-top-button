@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdevelopment=self.webpackChunkdevelopment||[]).push([[535],{535:(e,s,t)=>{t.r(s),t.d(s,{default:()=>c}),t(609);var n=t(995),o=t(501),u=t(37),a=t(790);function c(){const e=(0,u.A)((e=>e.customCss)),s=(0,u.A)((e=>e.setCustomCss));return(0,a.jsx)(n.Ay,{onCreateEditor:e=>{e.focus()},value:e,height:"420px",extensions:[(0,o.M7)()],onChange:s})}}}]);
